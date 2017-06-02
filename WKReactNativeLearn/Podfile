@@ -7,7 +7,4 @@ use_frameworks!
 target 'WKReactNativeLearn' do
 
 
-pod 'React', '~> 0.13.0-rc'
-
-
 end
