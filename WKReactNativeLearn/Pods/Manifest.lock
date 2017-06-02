@@ -1,0 +1,14 @@
+PODS:
+  - React (0.13.0-rc):
+    - React/Core (= 0.13.0-rc)
+  - React/Core (0.13.0-rc)
+
+DEPENDENCIES:
+  - React (~> 0.13.0-rc)
+
+SPEC CHECKSUMS:
+  React: 954f9c87235fcba91eac21d2632e1227a7336839
+
+PODFILE CHECKSUM: c3721c8f2dffedc2fb255563c030e4b1b6a37a6d
+
+COCOAPODS: 1.0.1
